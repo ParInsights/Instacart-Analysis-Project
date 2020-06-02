@@ -1,4 +1,5 @@
 ## Instacart Analysis Report
+
 By: Parin Patel
 
 
@@ -43,6 +44,7 @@ The program overall goal was to predict what product a user is likely to order n
 ### Conclusion
 
 The results of our analysis were the following:
+
 On average, users had about 16 -17 orders, with about 10 products per order. However, the most common number of products ordered was 5. There were over half a million orders that had either 4, 5, or 6 products per order.
 
 Highest user ordering was found to be on Sunday, followed by Monday. Overall we had a higher count of ordering in the beginning of the week. Therefore, we predict that orders are 30-40% more likely to occur on Sunday or Monday than another day of the week. In addition, regardless of the day, orders were mostly placed around the middle of the day. Ordering sees a heavy rise after 7am, until about 5pm. This is likely due to users placing orders while at work. Interesting that the largest number of users placing orders occurs on Monday around 12pm.
